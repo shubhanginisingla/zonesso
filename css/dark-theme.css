@@ -1,0 +1,154 @@
+body[data-theme='dark'] {
+    background: #333;
+    color: #fff;
+}
+
+[data-theme='dark'] .notify-sections li .profile_dropdwon a img,
+[data-theme='dark'] .notify-sections li a.btn-orange img {
+    filter: none;
+}
+
+[data-theme='dark'] .notify-sections li a i img,
+[data-theme='dark'] .search-icon img {
+    filter: brightness(20.5) invert(1);
+}
+
+[data-theme='dark'] .is-sticky .site-navbar-wrap a {
+    color: #333;
+}
+
+[data-theme='dark'] .site-mobile-menu {
+    background: #414040;
+
+}
+
+[data-theme='dark'] .site-mobile-menu .site-nav-wrap a,
+[data-theme='dark'] .breadcrumb a,
+[data-theme='dark'] .breadcrumb-item.active {
+    color: #fff;
+}
+
+[data-theme='dark'] .site-menu-toggle a,
+[data-theme='dark'] .site-navbar-wrap a,
+body[data-theme='dark'] .filter_float li span {
+    color: #fff !important;
+}
+
+[data-theme='dark'] .slider-card {
+    border: 0.5px solid rgba(255, 255, 255, 0.502);
+}
+
+[data-theme='dark'] .color-grey,
+[data-theme='dark'] .radiobtn label {
+    color: #fff;
+}
+
+[data-theme='dark'] .text-black,
+[data-theme='dark'] footer h5,
+[data-theme='dark'] footer p {
+    color: #fff !important;
+}
+
+[data-theme='dark'] footer,
+[data-theme='dark'] .bg-backorange form h4 {
+    color: #333 !important;
+}
+
+[data-theme='dark'] footer {
+    background: linear-gradient(0deg, #1A1A1A, #1A1A1A),
+        linear-gradient(90deg, rgba(252, 112, 73, 0.1) 4.1%, rgba(253, 49, 44, 0.1) 100%);
+
+}
+
+/* [data-theme='dark'] .site-mobile-menu .site-nav-wrap .arrow-collapse.collapsed:before,
+[data-theme='dark'] .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-close span {
+    color: #333;
+} */
+[data-theme='dark'] .modal-body .text-black {
+    /* color: #333 !important; */
+}
+
+[data-theme='dark'] .sticky-wrapper.is-sticky .site-navbar,
+[data-theme='dark'] .arrow-top:before,
+[data-theme='dark'] .modal-content,
+[data-theme='dark'] .drop-down .list-group-item {
+    background: #414040;
+}
+
+[data-theme='dark'] .list-group-item-action:hover {
+    background: #FEE3DF;
+}
+
+[data-theme='dark'] .bg-grey {
+    background: #8c8c8c !important;
+}
+
+[data-theme='dark'] .drop-down {
+    background: #8c8c8c;
+}
+
+[data-theme='dark'] .bg-wrap {
+    background: rgb(255 222 183 / 10%);
+}
+
+[data-theme='dark'] .bg-white i img{
+    filter: brightness(20.5) invert(1);
+}
+[data-theme='dark'] .bg-white:not(.showroom_person_details .bg-white) {
+    background-color: #8c8c8c !important;
+}
+
+[data-theme='dark'] .pagination li a, [data-theme='dark'] .pagination li.active a {
+    background-color: #4e4e4e;
+    color: #fff;
+}
+
+[data-theme='dark'] .breadcrumb-item+.breadcrumb-item::before{
+    color: #fff;
+}
+
+[data-theme='dark']  .dropdown-menu .text-black {
+    color: #fff !important;
+}
+
+body[data-theme='dark'] .dropdown-menu li:hover .text-black,
+body[data-theme='dark'] .dropdown-menu li:hover .color-grey, 
+body[data-theme='dark'] .dropdown-menu li:hover a {
+    color: #000 !important;
+}
+
+body[data-theme='dark']  .drop-footer img{
+    filter: brightness(20.5);
+}
+
+body[data-theme='dark'] .motors_details .imgthumbnail + .py-3 i.me-1 img {
+    filter: invert(1);
+}
+body[data-theme='dark'] .pagination li a:hover, body[data-theme='dark'] .pagination li a.active, body[data-theme='dark'] .pagination li.active a{
+    color: #fff;
+}
+
+body[data-theme='dark'] .nav-tabs .nav-item.show .nav-link, body[data-theme='dark'] .nav-tabs .nav-link.active {
+    background: transparent;
+    color: #fff;
+}
+
+body[data-theme='dark'] .checkout-review-order .text-black, body[data-theme='dark'] .checkout-review-order .color-grey{
+color: #000 !important;
+}
+
+body[data-theme='dark'] .site-navbar .site-navigation .site-menu .has-children .dropdown>li>a{
+ color: #000 !important;
+}
+body[data-theme='dark'] form .filter_float{
+    border-right: 1px solid #fff !important;
+
+    color: #fff;
+  }
+
+  
+  body[data-theme='dark']  .filter_float label {
+
+    color: #fff;
+  }
+  
